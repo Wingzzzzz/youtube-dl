@@ -50,7 +50,7 @@ class TwitchBaseIE(InfoExtractor):
         'ComscoreStreamingQuery': 'e1edae8122517d013405f237ffcc124515dc6ded82480a88daef69c83b53ac01',
         'VideoAccessToken_Clip': '36b89d2507fce29e5ca551df756d27c1cfe079e2609642b4390aa4c35796eb11',
         'VideoPreviewOverlay': '3006e77e51b128d838fa4e835723ca4dc9a05c5efd4466c1085215c6e437e65c',
-        'VideoMetadata': '226edb3e692509f727fd56821f5653c05740242c82b0388883e0c0e75dcbf687',
+        'VideoMetadata': '45111672eea2e507f8ba44d101a61862f9c56b11dee09a15634cb75cb9b9084d',
     }
 
     def _real_initialize(self):
